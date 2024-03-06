@@ -1,0 +1,62 @@
+{
+  "transactions": [
+    {
+      "title": "Laptop",
+      "amount": "5000",
+      "type": "income",
+      "category": "4",
+      "date": "2000-05-10",
+      "id": 2
+    },
+    {
+      "title": "Course",
+      "amount": "3",
+      "type": "expanse",
+      "category": "3",
+      "date": "5555-12-05",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "amount": "1000",
+      "type": "expanse",
+      "category": "1",
+      "date": "2024-03-20",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Monthly incom"
+    },
+    {
+      "id": 3,
+      "name": "Investment"
+    },
+    {
+      "id": 4,
+      "name": "Home Needs"
+    },
+    {
+      "id": 5,
+      "name": "Bucket List"
+    },
+    {
+      "id": 6,
+      "name": "Savings"
+    },
+    {
+      "id": 7,
+      "name": "Freelance"
+    },
+    {
+      "id": 8,
+      "name": "Business"
+    }
+  ]
+}
